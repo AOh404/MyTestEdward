@@ -9,3 +9,6 @@ asdas
 
 qweqwe
 asdas 
+public void static Test(){
+}
+
