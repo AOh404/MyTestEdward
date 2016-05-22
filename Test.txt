@@ -6,3 +6,6 @@ asd
 ´ÎÎÔ¶ş
 
 asdas
+
+public void static Test(){
+}
