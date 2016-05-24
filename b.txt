@@ -1,1 +1,8 @@
 my Test
+
+public void static{
+
+
+
+}
+
