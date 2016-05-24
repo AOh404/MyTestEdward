@@ -32,7 +32,10 @@ public void static void'
 
 #这是大标题
 
+`public void static main{
+	System.out.printf("输出数据");
 
+}`
 
 
 
