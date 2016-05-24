@@ -12,4 +12,4 @@ newbranch
 
 
 主分支
-http://img5.imgtn.bdimg.com/it/u=3425851328,2681317699&fm=21&gp=0.jpg
+![image](https://github.com/EdwardSituwende/MyTestEdward/blob/master/MyImage/1.jpg)
