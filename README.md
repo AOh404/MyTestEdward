@@ -34,7 +34,9 @@ public void static void'
 
 这是我的测试
 </br>
-```public void static main{System.out.printf("输出数据");}```
+```Java
+public void static main{System.out.printf("输出数据");}
+```
 </br>
 上面是代码块
 
