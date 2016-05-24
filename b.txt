@@ -1,8 +1,15 @@
 my Test
 
-public void static{
 
 
 
-}
 
+
+
+
+
+
+
+
+
+hello word hello (^_^)
