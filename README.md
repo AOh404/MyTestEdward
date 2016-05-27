@@ -1,14 +1,11 @@
-<<<<<<< HEAD
-我的测试
-=======
 public void static main(){
-
-printf("my test");
-
+i
+printf("my test"); 
 }
 
 my Test
 
+my Test
 test
 
 newbranch
@@ -52,4 +49,5 @@ Mac分支
 Mac第二次测试
 
 windows测试
->>>>>>> fdeb81213a755cc154f569e02534d9ad9f8f0211
+
+100idesu
